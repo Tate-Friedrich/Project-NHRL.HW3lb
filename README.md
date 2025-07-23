@@ -28,6 +28,7 @@ Multiple alternate weapon and armor layouts are being considered as part of the 
   - Controlled by an **ESP32** microcontroller.
   - Powered directly by 4S LiPo batteries.
 - Meets the **true walker** criteria with no rolling elements, qualifying for the full weight bonus.
+  - Ideally 2 DoF legs allow for belly dragging reducing the weight needed for movement.
 
 ### Power System
 - **Batteries (x2):** [GNB 850mAh 4S 15.2V LiHV LiPo](https://shop.robotsmashingleague.com/products/gnb-850mah-4s-15-2v-lipo-battery)
